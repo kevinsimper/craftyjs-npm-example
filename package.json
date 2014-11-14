@@ -1,0 +1,25 @@
+{
+  "name": "craftyjs-npm-example",
+  "version": "1.0.0",
+  "description": "craftyjs-npm-example ====================",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinsimper/craftyjs-npm-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinsimper/craftyjs-npm-example/issues"
+  },
+  "homepage": "https://github.com/kevinsimper/craftyjs-npm-example",
+  "dependencies": {
+    "craftyjs": "^0.6.3"
+  },
+  "devDependencies": {
+    "beefy": "^2.1.1"
+  }
+}
